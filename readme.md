@@ -1,4 +1,5 @@
-## 项目集成了普通的 http zipkin 链路，mysql 语句查询链路，kafka 链路需要自己先按照 zipkin 服务
+## 项目集成了普通的 http zipkin 链路，mysql 语句查询链路，kafka 链路
+## 需要自己先安装 zipkin 服务
 ## kafka
 
 #### 下载
