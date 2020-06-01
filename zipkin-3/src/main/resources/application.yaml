@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: myzipkin-3
+server:
+  port: 8083
