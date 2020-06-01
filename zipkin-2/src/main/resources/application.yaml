@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: myzipkin-2
-server:
-  port: 8082
