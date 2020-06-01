@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70371a7b-ae82-482b-8177-93acb483da03" name="Default Changelist" comment="init project">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/client-zipkin1/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin1/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-1/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-3/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-4/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-5/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Brave</find>
+      <find>OkHttpClient</find>
+      <find>restTemplate</find>
+      <find>getForObject</find>
+      <find>BraveClientHttpRequestInterceptor</find>
+      <find>BraveClientHttpRequestInterceptorc</find>
+      <find>kristofa</find>
+      <find>BraveOkHttpRequestResponseInterceptor</find>
+      <find>TracingHttpClientBuilder</find>
+      <find>httpTracing</find>
+      <find>tracing</find>
+      <find>currentTraceContext</find>
+      <find>TracingInterceptor</find>
+      <find>zipkin-sender-okhttp3</find>
+      <find>brave-instrumentation-spring-webmvc</find>
+      <find>httpcomponents</find>
+      <find>mydatabaseservice5</find>
+      <find>reporter2</find>
+      <find>brave-instrumentation-mysql</find>
+      <find>mysql-connector-java</find>
+      <find>statementInterceptors</find>
+      <find>3.9</find>
+      <find>MySQLStatementInterceptor</find>
+      <find>TracingStatementInterceptor</find>
+      <find>okhttp</find>
+      <find>DemoMessage.TOPIC</find>
+      <find>kafka-clients</find>
+      <find>ProducerRecord</find>
+      <find>com,bigknow.prometheus-client</find>
+      <find>prometheus-client</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>zipkin</replace>
+      <replace>com.xw.zipkindemo</replace>
+      <replace>zipkindemo-client</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zipkin-2/src/main/java/com/zipkin2/ZipkinController.java" />
+        <option value="$PROJECT_DIR$/zipkin-2/src/main/java/com/zipkin2/ZipkinController2.java" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/zipkin-1/src/main/java/com/zipkin1/Zipkin1Controller.java" />
+        <option value="$PROJECT_DIR$/zipkin-3/src/main/java/zipkin3/ZipkinController3.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/ZipkinController4.java" />
+        <option value="$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/DbConfig.java" />
+        <option value="$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/DBConfig.java" />
+        <option value="$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/TracingConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/SpanCollectorConfig.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/kafka/Foo1.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/kafka/Controller.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/Application.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/ClientApplcation.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/kafka/MessageConsumer.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/SpringMvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/resources/a.yml" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/SpanCollectorConfig.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/kafka/ZipkinConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/resources/application-dev.yaml" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/ZipkinConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/consumer/DemoConsumer.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/DemoProducer.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/Zipkin4Controller.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/KafkaApplication.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/zipkin-5/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/zipkin-3/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/zipkin-3/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/zipkin-2/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/zipkin-1/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/zipkin-1/src/main/java/com/zipkin1/SpanCollectorConfig.java" />
+        <option value="$PROJECT_DIR$/zipkin-3/src/main/java/zipkin3/Zipkin3Controller.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/config/SpringMvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-3/src/main/java/zipkin3/SpanCollectorConfig.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/Zipkinkafka4Controller.java" />
+        <option value="$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/config/ZipkinConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/config/ZipkinConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-2/src/main/java/com/zipkin2/SpanCollectorConfig.java" />
+        <option value="$PROJECT_DIR$/zipkin-5/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-1/src/main/java/com/zipkin1/config/ZipkinConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-2/src/main/java/com/zipkin2/config/ZipkinConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-3/src/main/java/zipkin3/config/ZipkinConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/config/SpringMvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/zipkin-5/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/message/DemoMessage.java" />
+        <option value="$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/ZipkinController5.java" />
+        <option value="$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/producer/DemoProducer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/20181120/soft/repository/repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/opt/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zipkindemo-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zipkindemo-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Modules" type="87271259:MavenProjectsStructure$ModulesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zipkindemo-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Modules" type="87271259:MavenProjectsStructure$ModulesNode" />
+          <item name="zipkin-4" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zipkindemo-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Modules" type="87271259:MavenProjectsStructure$ModulesNode" />
+          <item name="zipkin-4" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zipkindemo-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Modules" type="87271259:MavenProjectsStructure$ModulesNode" />
+          <item name="zipkin-4" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="io.zipkin.reporter2:zipkin-sender-okhttp3:2.11.1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="40" />
+    <option name="y" value="45" />
+    <option name="width" value="1440" />
+    <option name="height" value="794" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>AccessibilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>JPA</id>
+          </State>
+          <State>
+            <id>JSON and JSON5</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Play</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Thymeleaf</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zipkindemo-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zipkindemo-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="MySQLStatementInterceptor&#9;FILE&#9;jar:///Users/xingwangma/20181120/soft/repository/repository/io/zipkin/brave/brave-mysql/3.9.0/brave-mysql-3.9.0-sources.jar!/com/github/kristofa/brave/mysql/MySQLStatementInterceptor.java&#10;KafkaMessageListenerContainer&#9;PSI&#9;JAVA://org.springframework.kafka.listener.KafkaMessageListenerContainer&#10;ErrorHandlingDeserializer&#9;PSI&#9;JAVA://org.springframework.kafka.support.serializer.ErrorHandlingDeserializer&#10;Zipkinkafka4Controller&#9;PSI&#9;JAVA://zipkin4.Zipkinkafka4Controller&#10;BeanPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanPostProcessor&#10;com.github.kristofa.brave.mysql.MySQLStatementInterceptor&#9;PSI&#9;JAVA://com.github.kristofa.brave.mysql.MySQLStatementInterceptor&#10;TracingStatement&#9;FILE&#9;jar:///Users/xingwangma/20181120/soft/repository/repository/io/zipkin/brave/brave-instrumentation-mysql/5.4.3/brave-instrumentation-mysql-5.4.3.jar!/brave/mysql/TracingStatementInterceptor.class&#10;TracingStatementInterceptor&#9;FILE&#9;jar:///Users/xingwangma/20181120/soft/repository/repository/io/zipkin/brave/brave-instrumentation-mysql/5.6.4/brave-instrumentation-mysql-5.6.4.jar!/brave/mysql/TracingStatementInterceptor.class&#10;brave.mysql.TracingStatementInterceptor&#9;PSI&#9;JAVA://brave.mysql.TracingStatementInterceptor&#10;ThreadPoolTaskExecutor&#9;PSI&#9;JAVA://org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590991270717" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zipkin-3/src/main/java/zipkin3/config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zipkin-1/src/main/java/com/zipkin1" />
+      <recent name="$PROJECT_DIR$/zipkin-1/src/main/resources" />
+      <recent name="$PROJECT_DIR$/zipkin-2/src/main/resources" />
+      <recent name="$PROJECT_DIR$/zipkin-2/src/main/java/com/zipkin2" />
+      <recent name="$PROJECT_DIR$/zipkin-3/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.zipkin3">
+    <configuration name="zipkin1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="zipkin-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zipkin1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zipkin1.ClientApplcation" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zipkin2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="zipkin-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zipkin2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zipkin2.ClientApplcation" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zipkin3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="zipkin-3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zipkin3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zipkin3.ClientApplcation" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zipkin4" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="zipkin-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zipkin4.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zipkin4.KafkaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zipkin5" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="zipkin-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zipkin5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zipkin5.ClientApplcation" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.zipkin5" />
+      <item itemvalue="Spring Boot.zipkin4" />
+      <item itemvalue="Spring Boot.zipkin3" />
+      <item itemvalue="Spring Boot.zipkin1" />
+      <item itemvalue="Spring Boot.zipkin2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.zipkin5" />
+        <item itemvalue="Spring Boot.zipkin3" />
+        <item itemvalue="Spring Boot.zipkin2" />
+        <item itemvalue="Spring Boot.zipkin1" />
+        <item itemvalue="Spring Boot.zipkin4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70371a7b-ae82-482b-8177-93acb483da03" name="Default Changelist" comment="" />
+      <created>1590398100212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590398100212</updated>
+      <workItem from="1590398104521" duration="1209000" />
+      <workItem from="1590558468224" duration="12326000" />
+      <workItem from="1590628031906" duration="1552000" />
+      <workItem from="1590632580633" duration="112000" />
+      <workItem from="1590633513981" duration="17471000" />
+      <workItem from="1590657712322" duration="1958000" />
+      <workItem from="1590714238239" duration="5269000" />
+      <workItem from="1590731451624" duration="634000" />
+      <workItem from="1590819377987" duration="9414000" />
+      <workItem from="1590910932359" duration="7204000" />
+      <workItem from="1590973479493" duration="3713000" />
+      <workItem from="1590982631915" duration="1208000" />
+    </task>
+    <task id="LOCAL-00001" summary="init project">
+      <created>1590982749769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590982749769</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62070000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="794" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7352246" visible="true" weight="0.33762518" />
+      <window_info id="Structure" order="1" sideWeight="0.26477543" side_tool="true" weight="0.2454739" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49882767" weight="0.34404144" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="GraphQL" order="7" sideWeight="0.49928468" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" visible="true" weight="0.4074074" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.1464151" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.4985694" weight="0.32905984" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49928468" weight="0.32905984" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.18625894" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" weight="0.18705322" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.18370607" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Word Book" order="10" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.56925035" visible="true" weight="0.23272438" />
+      <window_info id="Structure" order="1" sideWeight="0.43074968" side_tool="true" weight="0.200556" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" visible="true" weight="0.2862871" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="GraphQL" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.41442716" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.14675221" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.18625894" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" weight="0.18705322" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.25377283" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Word Book" order="10" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-instrumentation-mysql/5.4.3/brave-instrumentation-mysql-5.4.3.jar!/brave/mysql/TracingStatementInterceptor.class</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave/5.12.3/brave-5.12.3-sources.jar!/brave/propagation/ThreadLocalSpan.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-http/3.9.0/brave-http-3.9.0.jar!/com/github/kristofa/brave/http/SpanNameProvider.class</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/20181120/soft/repository/repository/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE.jar!/org/springframework/beans/factory/config/BeanPostProcessor.class</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-core/3.9.0/brave-core-3.9.0.jar!/com/github/kristofa/brave/Brave.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-instrumentation-servlet/5.9.1/brave-instrumentation-servlet-5.9.1.jar!/brave/servlet/TracingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463">
+          <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-okhttp/3.9.0/brave-okhttp-3.9.0.jar!/com/github/kristofa/brave/okhttp/BraveOkHttpRequestResponseInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-core/3.9.0/brave-core-3.9.0.jar!/com/github/kristofa/brave/ClientRequestInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/com/squareup/okhttp3/okhttp/3.14.8/okhttp-3.14.8.jar!/okhttp3/Dispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="135" column="3" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-instrumentation-http/5.9.1/brave-instrumentation-http-5.9.1.jar!/brave/http/HttpTracing.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave/5.9.1/brave-5.9.1.jar!/brave/Tracing.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-3/src/main/java/zipkin3/Zipkin3Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-2/src/main/java/com/zipkin2/config/SpringMvcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-1/src/main/java/com/zipkin1/Zipkin1Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-1/src/main/java/com/zipkin1/ClientApplcation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-5/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/zipkin-1/src/main/java/com/zipkin1/SpanCollectorConfig.java" />
+    <entry file="file://$PROJECT_DIR$/zipkin-2/src/main/java/com/zipkin2/SpanCollectorConfig.java" />
+    <entry file="file://$PROJECT_DIR$/zipkin-3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-mysql/3.9.0/brave-mysql-3.9.0.jar!/META-INF/maven/io.zipkin.brave/brave-mysql/pom.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-mysql/3.9.0/brave-mysql-3.9.0-sources.jar!/com/github/kristofa/brave/mysql/MySQLStatementInterceptorManagementBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/20181120/soft/repository/repository/mysql/mysql-connector-java/5.1.49/mysql-connector-java-5.1.49.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-instrumentation-mysql/5.12.3/brave-instrumentation-mysql-5.12.3.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-mysql/3.9.0/brave-mysql-3.9.0-sources.jar!/com/github/kristofa/brave/mysql/MySQLStatementInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-instrumentation-mysql/5.12.3/brave-instrumentation-mysql-5.12.3-sources.jar!/brave/mysql/TracingStatementInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/com/squareup/okhttp3/okhttp/3.14.8/okhttp-3.14.8.jar!/okhttp3/OkHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="318" column="46" lean-forward="true" selection-start-line="318" selection-start-column="46" selection-end-line="318" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-instrumentation-okhttp3/5.9.1/brave-instrumentation-okhttp3-5.9.1.jar!/brave/okhttp3/TracingInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="24" column="62" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="62" />
+          <folding>
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-3/src/main/java/zipkin3/SpanCollectorConfig.java" />
+    <entry file="file://$PROJECT_DIR$/zipkin-1/src/main/java/com/zipkin1/config/ZipkinConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-2/src/main/java/com/zipkin2/config/ZipkinConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="70" column="7" lean-forward="true" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-3/src/main/java/zipkin3/config/ZipkinConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-5/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/KafkaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/consumer/DemoConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/Zipkinkafka4Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="61" lean-forward="true" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+          <folding>
+            <element signature="e#295#310#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/message/DemoMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-4/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-5/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/ZipkinController5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/config/SpringMvcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/config/ZipkinConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-5/src/main/java/zipkin5/ClientApplcation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/org/springframework/kafka/spring-kafka/2.5.0.RELEASE/spring-kafka-2.5.0.RELEASE.jar!/org/springframework/kafka/core/DefaultKafkaProducerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="279" column="26" selection-start-line="279" selection-start-column="26" selection-end-line="279" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/20181120/soft/repository/repository/io/zipkin/brave/brave-instrumentation-kafka-clients/5.9.1/brave-instrumentation-kafka-clients-5.9.1.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/20181120/soft/repository/repository/org/springframework/kafka/spring-kafka/2.5.0.RELEASE/spring-kafka-2.5.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/org/apache/kafka/kafka-clients/2.5.0/kafka-clients-2.5.0.jar!/org/apache/kafka/clients/producer/Callback.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/producer/DemoProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/20181120/soft/repository/repository/org/apache/kafka/kafka-clients/2.5.0/kafka-clients-2.5.0.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/config/SpringMvcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-4/src/main/java/zipkin4/config/ZipkinConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>zipkin-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
