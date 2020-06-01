@@ -1,4 +1,35 @@
-`http://localhost:9411/api/v2/spans`
-```json
-[{"traceId":"5ec0c560eef35cd3","parentId":"033c73b0633cf2b3","id":"0b571a04f40d0346","kind":"CLIENT","name":"get","timestamp":1590564504442000,"duration":588000,"localEndpoint":{"serviceName":"myzipkin-4","ipv4":"192.168.10.102"},"tags":{"http.url":"http://localhost:8085/zipkin/service5"}},{"traceId":"5ec0c560eef35cd3","parentId":"4793fe78f906def7","id":"033c73b0633cf2b3","kind":"SERVER","name":"get","timestamp":1590564504385000,"duration":684000,"localEndpoint":{"serviceName":"myzipkin-4","ipv4":"192.168.10.102"},"tags":{"http.status_code":"200","http.url":"/zipkin/service4"}},{"traceId":"5ec0c560eef35cd3","parentId":"5ec0c560eef35cd3","id":"2d612de5b090dc52","kind":"CLIENT","name":"get","timestamp":1590564503984000,"duration":1209000,"localEndpoint":{"serviceName":"myzipkin-1","ipv4":"192.168.10.102"},"tags":{"http.url":"http://localhost:8082/zipkin1/service2"}},{"traceId":"5ec0c560eef35cd3","id":"5ec0c560eef35cd3","kind":"SERVER","name":"get","timestamp":1590564503983000,"duration":1212000,"localEndpoint":{"serviceName":"myzipkin-1","ipv4":"192.168.10.102"},"tags":{"http.status_code":"200","http.url":"/zipkin/service1"}},{"traceId":"5ec0c560eef35cd3","parentId":"2d612de5b090dc52","id":"4793fe78f906def7","kind":"CLIENT","name":"get","timestamp":1590564504080000,"duration":1056000,"localEndpoint":{"serviceName":"myzipkin-2","ipv4":"192.168.10.102"},"tags":{"http.url":"http://localhost:8083/zipkin/service3"}},{"traceId":"5ec0c560eef35cd3","parentId":"2d612de5b090dc52","id":"409ac3d115fdcbe0","kind":"CLIENT","name":"get","timestamp":1590564505137000,"duration":8000,"localEndpoint":{"serviceName":"myzipkin-2","ipv4":"192.168.10.102"},"tags":{"http.url":"http://localhost:8084/zipkin/service4"}},{"traceId":"5ec0c560eef35cd3","parentId":"5ec0c560eef35cd3","id":"2d612de5b090dc52","kind":"SERVER","name":"get","timestamp":1590564504056000,"duration":1141000,"localEndpoint":{"serviceName":"myzipkin-2","ipv4":"192.168.10.102"},"tags":{"http.status_code":"200","http.url":"/zipkin1/service2"}},{"traceId":"5ec0c560eef35cd3","parentId":"4793fe78f906def7","id":"033c73b0633cf2b3","kind":"CLIENT","name":"get","timestamp":1590564504253000,"duration":822000,"localEndpoint":{"serviceName":"myzipkin-3","ipv4":"192.168.10.102"},"tags":{"http.url":"http://localhost:8084/zipkin/service4"}},{"traceId":"5ec0c560eef35cd3","parentId":"2d612de5b090dc52","id":"4793fe78f906def7","kind":"SERVER","name":"get","timestamp":1590564504215000,"duration":908000,"localEndpoint":{"serviceName":"myzipkin-3","ipv4":"192.168.10.102"},"tags":{"http.status_code":"200","http.url":"/zipkin/service3"}},{"traceId":"5ec0c560eef35cd3","parentId":"409ac3d115fdcbe0","id":"5410a3ca0f2418d7","kind":"CLIENT","name":"get","timestamp":1590564505141000,"duration":3000,"localEndpoint":{"serviceName":"myzipkin-4","ipv4":"192.168.10.102"},"tags":{"http.url":"http://localhost:8085/zipkin/service5"}},{"traceId":"5ec0c560eef35cd3","parentId":"2d612de5b090dc52","id":"409ac3d115fdcbe0","kind":"SERVER","name":"get","timestamp":1590564505140000,"duration":5000,"localEndpoint":{"serviceName":"myzipkin-4","ipv4":"192.168.10.102"},"tags":{"http.status_code":"200","http.url":"/zipkin/service4"}}]
+## 项目集成了普通的 http zipkin 链路，mysql 语句查询链路，kafka 链路需要自己先按照 zipkin 服务
+## kafka
+
+#### 下载
+
+> https://kafka.apache.org/downloads
+#### 启动zk
+
+`bin/zookeeper-server-start.sh config/zookeeper.properties`
+
+#### 启动kafka
+
+`bin/kafka-server-start.sh config/server.properties`
+
+#### 创建topic
+
+`bin/kafka-topics.sh --create --bootstrap-server 192.168.1.97:9092 --replication-factor 1 --partitions 1 --topic test`
+
+#### 查看topic
+
+`bin``/kafka-topics``.sh --list --bootstrap-server 192.168.1.97:9092`
+
+#### 发送消息
+
+```bash
+bin/kafka-console-producer.sh --bootstrap-server 192.168.1.97:9092 --topic test
+This is a message
+This is another message
+```
+
+#### 消费消息
+
+```
+bin``/kafka-console-consumer``.sh --bootstrap-server 192.168.1.97:9092 --topic ``test` `--from-beginning
 ```
