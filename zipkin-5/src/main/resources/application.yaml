@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: myzipkin-5
+server:
+  port: 8085
